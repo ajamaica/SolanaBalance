@@ -2,6 +2,8 @@
 
 This is the Solana Balance App writen in Typescrypt for React Native. It retrives balances from all SPL Wallets by the given PublicKey. If the given key is not valid it will show an error. If you tap the item it will open a qr code with the pubkey on a browser. The SPL tokens are sort by chainId. Images are and metadata is loaded using the token-list.
 
+![Sample Video](image1.gif)
+
 ## Usage
 
 1. Clone repo
